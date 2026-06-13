@@ -1,0 +1,23 @@
+# Compiled binaries
+phi_2
+grain_local
+*.o
+*.a
+
+# Output data
+phi_1_output/
+*.vtk
+*.bin
+
+# Build artifacts
+*.dSYM/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
