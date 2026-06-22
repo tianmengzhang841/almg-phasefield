@@ -10,7 +10,7 @@ A parallel MPI C implementation inspired by:
 
 ![Simulation snapshot showing Al (blue), β-Al₃Mg₂ grains (cyan), γ-Al₁₂Mg₁₇ grains (grey) and Mg (purple) at an intermediate time step](docs/snapshot.png)
 
-[▶ 点击查看仿真演示视频](docs/almg.MP4)
+[![仿真快照](docs/snapshot.png)](https://github.com/tianmengzhang841/almg-phasefield/releases/download/v1.0/almg.MP4)
 
 ---
 
