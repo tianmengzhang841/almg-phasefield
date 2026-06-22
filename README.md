@@ -8,7 +8,9 @@ A parallel MPI C implementation inspired by:
 
 > Raza, S. H. & Klusemann, B. (2020). *Multiphase-field modeling of temperature-driven intermetallic compound evolution in an Al-Mg system for application to solid-state joining processes.* Modelling and Simulation in Materials Science and Engineering. https://doi.org/10.1088/1361-651X/aba1df
 
-![Simulation snapshot showing Al (blue), β-Al₃Mg₂ grains (cyan), γ-Al₁₂Mg₁₇ grains (grey) and Mg (purple) at an intermediate time step](docs/almg.MP4)
+![Simulation snapshot showing Al (blue), β-Al₃Mg₂ grains (cyan), γ-Al₁₂Mg₁₇ grains (grey) and Mg (purple) at an intermediate time step](docs/snapshot.png)
+
+[▶ 点击查看仿真演示视频](docs/almg.MP4)
 
 ---
 
